@@ -43,7 +43,7 @@ print(f"List is {list_of_idiots}")
 tuple_1 = ("vinay", "pooja", "rbk", "manjula")
 print(tuple_1)
 
-#sets
+#sets - Not having any duplicate values
 init_set = set() #to initialize set
 set_of_vegs = {"carrot", "beans"}
 print(set_of_vegs)
